@@ -1,0 +1,8 @@
+.build/
+dist/
+.DS_Store
+
+# Local validation outputs
+artifacts/
+ui-validation.png
+.swiftpm/
