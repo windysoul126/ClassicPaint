@@ -9,7 +9,7 @@ Swift + AppKit 原生离线画图应用。界面与操作方向以 Windows 7 经
 ```sh
 git clone https://github.com/windysoul126/ClassicPaint.git
 cd ClassicPaint
-./scripts/build-app.sh
+zsh scripts/build-app.sh
 .build/ClassicPaint --self-test
 ```
 
